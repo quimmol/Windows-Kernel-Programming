@@ -19,12 +19,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Inf Include="Chapter1.inf">
+    <Inf Include="getversion.inf">
       <Filter>Driver Files</Filter>
     </Inf>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="example.cpp">
+    <ClCompile Include="..\Chapter 1\getversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
